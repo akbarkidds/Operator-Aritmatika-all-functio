@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body style="color:white; background-color: black;text-align: center;">
+    <h2> kalkulator sederhana menggunakan function( arrow, anonymous dan function biasa)</h2>
+        <script src="/discount.js"></script>
+</body>
+</html>
